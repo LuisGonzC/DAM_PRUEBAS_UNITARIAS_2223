@@ -42,7 +42,6 @@
             this.txtSaldo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSaldo.Location = new System.Drawing.Point(195, 48);
             this.txtSaldo.Name = "txtSaldo";
-            this.txtSaldo.ReadOnly = true;
             this.txtSaldo.Size = new System.Drawing.Size(274, 44);
             this.txtSaldo.TabIndex = 0;
             // 
